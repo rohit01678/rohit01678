@@ -1,6 +1,6 @@
 # Hi there, I'm Rohit 👋
 
-Software and Hardware developer passionate about building projects and Machine learning.
+Software and Hardware developer passionate about building projects in low level languages and Machine learning integrated with Hardware.
 
 ---
 
@@ -20,6 +20,7 @@ Software and Hardware developer passionate about building projects and Machine l
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+`![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)`
 
 **Frameworks & Libraries:**  
 
@@ -32,10 +33,11 @@ Software and Hardware developer passionate about building projects and Machine l
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-e16723?style=for-the-badge&logo=mathworks&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
-
+`![LTspice](https://img.shields.io/badge/LTspice-100000?style=for-the-badge&logoColor=white)`
 
 ### 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/rohit-chaudhary-673669377)
+`[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/rohitchaudhary01678)`
 
 
